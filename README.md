@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello :rocket:
+
+:construction: I am currently building this page. Check back soon!
+
+![GitHub followers](https://img.shields.io/github/followers/tycrek?style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/tycrek?style=social)
 
 <!--
 **tycrek/tycrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
