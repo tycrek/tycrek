@@ -1,5 +1,5 @@
 <center>
-  ### Hello :rocket:
+  <h2>Hello :rocket:</h2>
 
   :construction: I am currently building this page. Check back soon!
 
