@@ -1,11 +1,15 @@
-### Hello :rocket:
+<center>
+  ### Hello :rocket:
 
-:construction: I am currently building this page. Check back soon!
+  :construction: I am currently building this page. Check back soon!
 
-![GitHub followers](https://img.shields.io/github/followers/tycrek?style=social)
+  [![Website](https://img.shields.io/badge/-Check%20out%20my%20website-00BCD4)](https://jmoore.dev/)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/tycrek?style=social)
+  [![GitHub followers](https://img.shields.io/github/followers/tycrek?style=social)](https://github.com/tycrek)
 
+  [![Twitter Follow](https://img.shields.io/twitter/follow/tycrek?style=social)](https://twitter.com/tycrek)
+
+</center>
 <!--
 **tycrek/tycrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
