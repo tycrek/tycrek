@@ -8,6 +8,8 @@
   [![GitHub followers](https://img.shields.io/github/followers/tycrek?style=social)](https://github.com/tycrek)
 
   [![Twitter Follow](https://img.shields.io/twitter/follow/tycrek?style=social)](https://twitter.com/tycrek)
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tycrek&show_icons=true)
 
 </center>
 <!--
