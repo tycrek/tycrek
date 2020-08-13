@@ -3,6 +3,12 @@
 [![Website](https://img.shields.io/badge/-Check%20out%20my%20website-00BCD4)](https://jmoore.dev/)
 [![Archive](https://img.shields.io/badge/-Visit%20my%20project%20archive-EF6C00)](https://github.com/tycrek-archive)
 
+## :raised_eyebrow: Who am I
+
+I am a self-taught full stack web dev. I have a passion for privacy, security, and open source. I first learned Java when I was 10 using a free course on [Cave of Programming](https://www.caveofprogramming.com/). I like programming, gaming, and learning new things.
+
+Have a project idea? Feel free to reach out to me and we'll see what we can do!
+
 ## :computer: What I'm working on
 
 - **[Degoogle](https://github.com/tycrek/degoogle)** - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -34,19 +40,7 @@
 
 ## :book: What I am learning/want to learn
 
-- Coming soon
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tycrek&show_icons=true)
-
-<!--
-**tycrek/tycrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
+- Minecraft modding (Forge and/or Fabric)
+- [Julia](https://julialang.org/) (programming language)
+- Encryption
+- Kotlin
