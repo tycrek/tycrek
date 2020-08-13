@@ -1,6 +1,7 @@
 # Hello, I'm Josh :rocket:</h2>
 
 [![Website](https://img.shields.io/badge/-Check%20out%20my%20website-00BCD4)](https://jmoore.dev/)
+[![Archive](https://img.shields.io/badge/-Visit%20my%20project%20archive-EF6C00)](https://github.com/tycrek-archive)
 
 ## :computer: What I'm working on
 
