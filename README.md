@@ -40,6 +40,7 @@ I am a self-taught full stack web dev. I have a passion for privacy, security, a
   - [Julia](https://julialang.org/)
   - [V](https://vlang.io/)
   - [TypeScript](https://www.typescriptlang.org/)
+  - [Rust](https://www.rust-lang.org/)
 
 ## :mailbox: How to contact me
 
