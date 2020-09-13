@@ -9,6 +9,7 @@ I am a self-taught full stack web dev. I have a passion for privacy, security, a
 
 ## :computer: What I'm working on
 
+- **[mandatum](https://github.com/tycrek/mandatum)** - An open-source Discord bot.
 - **[Degoogle](https://github.com/tycrek/degoogle)** - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - **[McServerman](https://github.com/tycrek/mcserverman)** - A web-based GUI for managing Minecraft servers.
 
