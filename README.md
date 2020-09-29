@@ -46,3 +46,4 @@ I am a self-taught full-stack web dev. I have a passion for privacy, security, a
 ## :mailbox: How to contact me
 
 - The best way to reach me is via [email](mailto:josh.moore@jmoore.dev).
+- For a quick response you can also message me on Discord: `@tycrek#0001`
