@@ -5,7 +5,7 @@
 
 ## :raised_eyebrow: Who am I
 
-I am a self-taught full stack web dev. I have a passion for privacy, security, and open source. I first learned Java when I was 10 using a free course on [Cave of Programming](https://www.caveofprogramming.com/). I like programming, gaming, and learning new things.
+I am a self-taught full-stack web dev. I have a passion for privacy, security, and open-source software. I first learned Java when I was 10 using a free course on [Cave of Programming](https://www.caveofprogramming.com/). I like programming, gaming, and learning new things.
 
 ## :computer: What I'm working on
 
@@ -21,10 +21,10 @@ I am a self-taught full stack web dev. I have a passion for privacy, security, a
 ## :brain: What I know
 
 - **Web dev**
+  - [Node.js](https://nodejs.org/) with [Express](https://expressjs.com/)
   - HTML5/[Pug](https://pugjs.org/)
   - CSS/[Sass](https://sass-lang.com/)
   - JavaScript/jQuery
-  - [Node.js](https://nodejs.org/) with [Express](https://expressjs.com/)
 - **Other languages**
   - Java (including Android)
   - Python
