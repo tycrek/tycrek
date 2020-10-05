@@ -16,7 +16,21 @@ I am a self-taught full-stack web dev. I have a passion for privacy, security, a
 ## :gear: Future project ideas
 
 - **[garage.py](https://github.com/tycrek/garage.py)** - Old project that allowed a Raspberry Pi to open a garage door using Twilio. I'd like to revisit this project once again.
-- **Call flooder** - I had previously made a call flooder in Python to f*ck with scammer call centers. I have no idea where the code went so I'll have to rewrite it!
+
+## :gem: Stack
+
+My preferred tech stack (back-end) is "**CVNE**":
+
+- [**C**addy server](https://caddyserver.com/)
+- [**V**arnish Cache Server](https://varnish-cache.org/)
+- [**N**ode.js](https://nodejs.org/)
+- [**E**xpress.js](https://expressjs.com/)
+
+For front-end, I use "**PSjQ**":
+
+- [**P**ug.js](https://pugjs.org/api/getting-started.html) - for HTML
+- [**S**ass](https://sass-lang.com/) - for CSS
+- [**jQ**uery](https://jquery.com/) - for JavaScript. I'm not a huge fan of the bigger frameworks like Angular/Vue/React/etc.
 
 ## :brain: What I know
 
@@ -29,7 +43,7 @@ I am a self-taught full-stack web dev. I have a passion for privacy, security, a
   - Java (including Android)
   - Python
 - **Sysadmin**
-  - Linux (Ubuntu server) (including Nginx and Varnish reverse proxies)
+  - Linux (Ubuntu server) (including Nginx, Caddy, and Varnish reverse proxies)
   - Windows
   - Security (including password security, keypair management, and certificate management)
 
