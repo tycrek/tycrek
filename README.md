@@ -12,7 +12,7 @@ I am a self-taught full-stack web dev. I have a passion for privacy, security, a
 - **[mandatum](https://github.com/tycrek/mandatum)** - An open-source Discord bot.
 - **[Degoogle](https://github.com/tycrek/degoogle)** - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - **[McServerman](https://github.com/tycrek/mcserverman)** - A web-based GUI for managing Minecraft servers.
-- **ttDQS** - A private remote utility suite for 2b2t.org
+- **ttRMS** - A private remote utility suite for 2b2t.org
 
 ## :gear: Future project ideas
 
