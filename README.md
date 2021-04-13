@@ -17,6 +17,8 @@ I am a self-taught full-stack web dev. I have a passion for privacy, security, a
 ## :gear: Future project ideas
 
 - **[mandatum-java](https://github.com/tycrek/mandatum-java)** - The Java rewrite of **[mandatum](https://github.com/tycrek/mandatum)**, my open-source Discord bot.
+- **McServerman 2** - A newer, more modern **[McServerman](https://github.com/tycrek/mcserverman)**, a web-based GUI for managing Minecraft servers.
+
 
 ## :gem: Stack
 
