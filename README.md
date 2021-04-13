@@ -16,7 +16,7 @@ I am a self-taught full-stack web dev. I have a passion for privacy, security, a
 
 ## :gear: Future project ideas
 
-- **[garage.py](https://github.com/tycrek/garage.py)** - Old project that allowed a Raspberry Pi to open a garage door using Twilio. I'd like to revisit this project once again.
+- **[mandatum-java](https://github.com/tycrek/mandatum-java)** - The Java rewrite of **[mandatum](https://github.com/tycrek/mandatum)**, my open-source Discord bot.
 
 ## :gem: Stack
 
