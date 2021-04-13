@@ -5,13 +5,12 @@
 
 ## :raised_eyebrow: Who am I
 
-I am a self-taught full-stack web dev. I have a passion for privacy, security, and open-source software. I first learned Java when I was 10 using a free course on [Cave of Programming](https://www.caveofprogramming.com/). I like programming, gaming, and learning new things.
+I am a self-taught Java & full-stack web dev. I have a passion for privacy, security, and open-source software.
 
 ## :computer: What I'm working on
 
 - **[Degoogle](https://github.com/tycrek/degoogle)** - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - **[ttRMS](https://ttrms.io/)** - A powerful remote management suite for 2b2t.org, the oldest anarchy server in Minecraft.
-- **ttRMS** - A private remote utility suite for 2b2t.org
 
 ## :gear: Future project ideas
 
