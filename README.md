@@ -52,11 +52,10 @@ For front-end, I use "**PSjQ**":
 
 - Minecraft modding (Forge and/or Fabric)
 - **Programming languages**
-  - [Kotlin](https://kotlinlang.org/)
-  - [Julia](https://julialang.org/)
   - [V](https://vlang.io/)
   - [TypeScript](https://www.typescriptlang.org/)
   - [Rust](https://www.rust-lang.org/)
+  - [Julia](https://julialang.org/)
 
 ## :mailbox: How to contact me
 
