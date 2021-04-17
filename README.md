@@ -19,7 +19,7 @@ I am a self-taught Java & full-stack web dev. I have a passion for privacy, secu
 
 - **[mandatum-java](https://github.com/tycrek/mandatum-java)** - The Java rewrite of **[mandatum](https://github.com/tycrek/mandatum)**, my open-source Discord bot.
 - **McServerman 2** - A newer, more modern **[McServerman](https://github.com/tycrek/mcserverman)**, a web-based GUI for managing Minecraft servers.
-
+- **Minecraft Resource Pack migrator** - Will be able to convert Minecraft resource packs between any version, forward or back.
 
 ## :gem: Stack
 
