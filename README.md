@@ -47,7 +47,7 @@ For front-end, I use "**PSjQ**":
   - Java (including Android)
   - Python
 - **Sysadmin**
-  - Linux (Ubuntu server) (including Nginx, Caddy, and Varnish reverse proxies)
+  - GNU/Linux (Ubuntu server) (including Nginx, Caddy, and Varnish reverse proxies)
   - Windows
   - Security (including password security, keypair management, and certificate management)
 
