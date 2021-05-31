@@ -64,3 +64,9 @@ For front-end, I use "**PSjQ**":
 
 - The best way to reach me is via [email](mailto:josh.moore@jmoore.dev).
 - For a quick response you can also message me on Discord: `@tycrek#0001`
+
+## Digital Ocean
+
+By using my referral code, you will receive $100 in credit over 60 days. Once you've spent $25 with Digital Ocean, I will also get $25. Click the image below to sign up using my referral:
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=1588de8d402c&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
