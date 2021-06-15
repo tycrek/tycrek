@@ -12,7 +12,7 @@ I am a self-taught Java & full-stack web dev. I have a passion for privacy, secu
 
 - **[Degoogle](https://github.com/tycrek/degoogle)** - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - **[ttRMS](https://ttrms.io/)** - A powerful remote management suite for 2b2t.org, the oldest anarchy server in Minecraft.
-- **[ass](https://github.com/tycrek/ass)** - A not-shitty ShareX upload server that actually works as intended.
+- **[ass](https://github.com/tycrek/ass)** - The superior self-hosted ShareX server.
 - **[2bqueue.info](https://2bqueue.info)** - An API I made for 2b2t developers to easily get player and queue information for 2b2t.org.
 
 ## :gear: Future project ideas
