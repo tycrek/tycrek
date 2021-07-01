@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/badge/-Check%20out%20my%20website-00BCD4)](https://tycrek.com/)
 [![Archive](https://img.shields.io/badge/-Visit%20my%20project%20archive-EF6C00)](https://github.com/tycrek-archive)
+[![Donate](https://img.shields.io/badge/Support%20me%20on-Patreon-FF424D?logo=patreon)](https://www.patreon.com/tycrek)
 [![GitHub followers](https://img.shields.io/github/followers/tycrek?style=social)](https://github.com/tycrek?tab=followers)
 
 ## :raised_eyebrow: Who am I
