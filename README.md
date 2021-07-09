@@ -14,6 +14,8 @@ I am a self-taught Java & full-stack web dev. I have a passion for privacy, secu
 - **[Degoogle](https://github.com/tycrek/degoogle)** - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - **[ttRMS](https://ttrms.io/)** - A powerful remote management suite for 2b2t.org, the oldest anarchy server in Minecraft.
 - **[ass](https://github.com/tycrek/ass)** - The superior self-hosted ShareX server.
+- **[tlog](https://github.com/tycrek/tlog)** - My custom Node.js logger library.
+- **[port.quest](https://port.quest/)** - A tool I made for quickly getting random port numbers.
 - **[2bqueue.info](https://2bqueue.info)** - An API I made for 2b2t developers to easily get player and queue information for 2b2t.org.
 
 ## :gear: Future project ideas
