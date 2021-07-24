@@ -1,9 +1,13 @@
+<div align="center">
+
 # Hello, I'm Josh :rocket:
 
 [![Website](https://img.shields.io/badge/-Check%20out%20my%20website-00BCD4)](https://tycrek.com/)
 [![Archive](https://img.shields.io/badge/-Visit%20my%20project%20archive-EF6C00)](https://github.com/tycrek-archive)
 [![Donate](https://img.shields.io/badge/Support%20me%20on-Patreon-FF424D?logo=patreon)](https://www.patreon.com/tycrek)
 [![GitHub followers](https://img.shields.io/github/followers/tycrek?style=social)](https://github.com/tycrek?tab=followers)
+
+</div>
 
 ## :raised_eyebrow: Who am I
 
@@ -23,6 +27,7 @@ I am a self-taught Java & full-stack web dev. I have a passion for privacy, secu
 - **[mandatum-java](https://github.com/tycrek/mandatum-java)** - The Java rewrite of **[mandatum](https://github.com/tycrek/mandatum)**, my open-source Discord bot.
 - **McServerman 2** - A newer, more modern **[McServerman](https://github.com/tycrek/mcserverman)**, a web-based GUI for managing Minecraft servers.
 - **Minecraft Resource Pack migrator** - Will be able to convert Minecraft resource packs between any version, forward or back.
+- *Unannounced Markdown project* - hehe 😉
 
 ## :gem: Stack
 
@@ -56,12 +61,12 @@ For front-end, I use "**PSjQ**":
 
 ## :book: What I am learning/want to learn
 
-- Minecraft modding (Forge and/or Fabric)
 - **Programming languages**
   - [V](https://vlang.io/)
-  - [TypeScript](https://www.typescriptlang.org/)
-  - [Rust](https://www.rust-lang.org/)
+  - [Kotlin](https://kotlinlang.org/)
   - [Julia](https://julialang.org/)
+  - [Rust](https://www.rust-lang.org/) (maybe)
+- Minecraft modding in [Fabric](https://fabricmc.net/)
 
 ## :mailbox: How to contact me
 
