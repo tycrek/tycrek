@@ -2,10 +2,20 @@
 
 # Hello, I'm Josh :rocket:
 
-[![Website](https://img.shields.io/badge/-Check%20out%20my%20website-00BCD4)](https://tycrek.com/)
-[![Archive](https://img.shields.io/badge/-Visit%20my%20project%20archive-EF6C00)](https://github.com/tycrek-archive)
-[![Donate](https://img.shields.io/badge/Support%20me%20on-Patreon-FF424D?logo=patreon)](https://www.patreon.com/tycrek)
-[![GitHub followers](https://img.shields.io/github/followers/tycrek?style=social)](https://github.com/tycrek?tab=followers)
+[![Website icon]][Website]
+[![Archive icon]][Archive]
+[![Donate icon]][Donate]
+[![Followers icon]][Followers]
+
+[Website]: https://tycrek.com/
+[Archive]: https://github.com/tycrek-archive
+[Donate]: https://www.patreon.com/tycrek
+[Followers]: https://github.com/tycrek?tab=followers
+
+[Website icon]: https://img.shields.io/badge/-Check%20out%20my%20website-D50000
+[Archive icon]: https://img.shields.io/badge/-Visit%20my%20project%20archive-A50000
+[Donate icon]: https://img.shields.io/badge/Support%20me%20on-Patreon-FF424D?logo=patreon
+[Followers icon]: https://img.shields.io/github/followers/tycrek?style=social
 
 </div>
 
@@ -15,19 +25,25 @@ I am a self-taught Java & full-stack web dev. I have a passion for privacy, secu
 
 ## :computer: What I'm working on
 
-- **[Degoogle](https://github.com/tycrek/degoogle)** - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
-- **[ttRMS](https://ttrms.io/)** - A powerful remote management suite for 2b2t.org, the oldest anarchy server in Minecraft.
-- **[ass](https://github.com/tycrek/ass)** - The superior self-hosted ShareX server.
-- **[tlog](https://github.com/tycrek/tlog)** - My custom Node.js logger library.
-- **[port.quest](https://port.quest/)** - A tool I made for quickly getting random port numbers.
-- **[2bqueue.info](https://2bqueue.info)** - An API I made for 2b2t developers to easily get player and queue information for 2b2t.org.
+| Project | What is it? |
+| ------- | ----------- |
+| **[Degoogle](https://github.com/tycrek/degoogle)** | A huge list of alternatives to Google products. Privacy tips, tricks, and links. |
+| **[ttRMS](https://ttrms.io/)**\* | A powerful remote management suite for 2b2t.org, the oldest anarchy server in Minecraft. |
+| **[ass](https://github.com/tycrek/ass)** | The superior self-hosted ShareX server. |
+| **[tlog](https://github.com/tycrek/tlog)** | My custom Node.js logger library. |
+| **[port.quest](https://port.quest/)** | A tool I made for quickly getting random port numbers. |
+| **[2bqueue.info](https://2bqueue.info)**\* | An API I made for 2b2t developers to easily get player and queue information for 2b2t.org. |
+
+***\*** ttRMS & 2bqueue.info are **not** open-source.*
 
 ## :gear: Future project ideas
 
-- **[mandatum-java](https://github.com/tycrek/mandatum-java)** - The Java rewrite of **[mandatum](https://github.com/tycrek/mandatum)**, my open-source Discord bot.
-- **McServerman 2** - A newer, more modern **[McServerman](https://github.com/tycrek/mcserverman)**, a web-based GUI for managing Minecraft servers.
-- **Minecraft Resource Pack migrator** - Will be able to convert Minecraft resource packs between any version, forward or back.
-- *Unannounced Markdown project* - hehe 😉
+| Project | What is it? |
+| ------- | ----------- |
+| **[mandatum-java](https://github.com/tycrek/mandatum-java)** | The Java rewrite of **[mandatum](https://github.com/tycrek/mandatum)**, my open-source Discord bot. |
+| **McServerman 2** | A newer, more modern **[McServerman](https://github.com/tycrek/mcserverman)**, a web-based GUI for managing Minecraft servers. |
+| **Minecraft Resource Pack migrator** | Will be able to convert Minecraft resource packs between any version, forward or back. |
+| *Unannounced Markdown project* | hehe 😉 |
 
 ## :gem: Stack
 
@@ -46,14 +62,16 @@ For front-end, I use "**PSjQ**":
 
 ## :brain: What I know
 
-- **Web dev**
+- **Programming**
   - [Node.js](https://nodejs.org/) with [Express](https://expressjs.com/)
   - HTML5/[Pug](https://pugjs.org/)
   - CSS/[Sass](https://sass-lang.com/)
   - JavaScript/jQuery
-- **Other languages**
   - Java (including Android)
-  - Python
+  - Some experience with Go
+  - Some experience with SQL
+     - MySQL & PostgreSQL for personal use (I prefer Postgres)
+     - T-SQL (Microsoft SQL Server) as part of a student work term
 - **Sysadmin**
   - Linux (Ubuntu server) (including Nginx, Caddy, and Varnish reverse proxies)
   - Windows
@@ -66,12 +84,21 @@ For front-end, I use "**PSjQ**":
   - [Kotlin](https://kotlinlang.org/)
   - [Julia](https://julialang.org/)
   - [Rust](https://www.rust-lang.org/) (maybe)
+- Properly learn databases
 - Minecraft modding in [Fabric](https://fabricmc.net/)
 
 ## :mailbox: How to contact me
 
-- The best way to reach me is via [email](mailto:josh.moore@jmoore.dev).
-- For a quick response you can also message me on Discord: `@tycrek#0001`
+- Discord is the fastest way to reach me: `@tycrek#0001`
+- You can also [email me](mailto:josh.moore@jmoore.dev) but I don't always reply unless it's super important.
+
+Also, I don't accept Friend requests if I don't recognize the person requesting. To message me without being added as a friend:
+
+1. Send a friend request to me
+2. Go to your pending friend requests
+3. Right-click me
+4. It should show an option to "Send message"
+5. Send me your message!
 
 ## Digital Ocean
 
