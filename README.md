@@ -89,16 +89,14 @@ For front-end, I use "**PSjQ**":
 
 ## :mailbox: How to contact me
 
-- Discord is the fastest way to reach me: `@tycrek#0001`
-- You can also [email me](mailto:josh.moore@jmoore.dev) but I don't always reply unless it's super important.
+### Discord
 
-Also, I don't accept Friend requests if I don't recognize the person requesting. To message me without being added as a friend:
+1. Join [this Discord server](https://discord.gg/Y9JkhYxe6P)
+2. Message me
 
-1. Send a friend request to me
-2. Go to your pending friend requests
-3. Right-click me
-4. It should show an option to "Send message"
-5. Send me your message!
+### Email
+
+You can email either [**`josh.moore@jmoore.dev`**](mailto:josh.moore@jmoore.dev) or [**`t@tycrek.com`**](mailto:t@tycrek.com), but I don't always reply unless it's super important.
 
 ## Digital Ocean
 
