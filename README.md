@@ -103,3 +103,7 @@ You can email either [**`josh.moore@jmoore.dev`**](mailto:josh.moore@jmoore.dev)
 By using my referral code, you will receive $100 in credit over 60 days. Once you've spent $25 with Digital Ocean, I will also get $25. Click the image below to sign up using my referral:
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=1588de8d402c&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+## Trophies
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=tycrek&theme=dracula&title=Stars,Commit,Issues,Followers,PullRequest&margin-w=10&margin-h=10&row=2&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
