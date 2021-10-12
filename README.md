@@ -89,6 +89,10 @@ For front-end, I use "**PSjQ**":
 
 ## :mailbox: How to contact me
 
+### Keybase
+
+[**`@tycrek`**](https://keybase.io/tycrek)
+
 ### Discord
 
 1. Join [this Discord server](https://discord.gg/Y9JkhYxe6P)
@@ -97,6 +101,10 @@ For front-end, I use "**PSjQ**":
 ### Email
 
 You can email either [**`josh.moore@jmoore.dev`**](mailto:josh.moore@jmoore.dev) or [**`t@tycrek.com`**](mailto:t@tycrek.com), but I don't always reply unless it's super important.
+
+### Matrix
+
+**`@tycrek:matrix.org`**
 
 ## Digital Ocean
 
