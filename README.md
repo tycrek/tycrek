@@ -47,25 +47,24 @@ I am a self-taught Java & full-stack web dev. I have a passion for privacy, secu
 
 ## :gem: Stack
 
-My preferred tech stack (back-end) is "**CVNE**":
+My preferred tech stack (back-end) is "**CNE**":
 
-- [**C**addy server](https://caddyserver.com/) (check out my easy [Caddy tutorial](https://jmoore.dev/tutorials/2021/03/caddy-express-reverse-proxy/))
-- [**V**arnish Cache Server](https://varnish-cache.org/)
+- [**C**addy server](https://caddyserver.com/) (check out my easy [Caddy tutorial](https://old.jmoore.dev/tutorials/2021/03/caddy-express-reverse-proxy/))
 - [**N**ode.js](https://nodejs.org/)
 - [**E**xpress.js](https://expressjs.com/)
 
-For front-end, I use "**PSjQ**":
+For front-end, I use "**PTvJS**":
 
 - [**P**ug.js](https://pugjs.org/api/getting-started.html) - for HTML
-- [**S**ass](https://sass-lang.com/) - for CSS
-- [**jQ**uery](https://jquery.com/) - for JavaScript. I'm not a huge fan of the bigger frameworks like Angular/Vue/React/etc.
+- [**T**ailwind CSS](https://tailwindcss.com/) - for CSS
+- **V**anilla **J**ava**S**cript, [no more jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
 
 ## :brain: What I know
 
 - **Programming**
   - [Node.js](https://nodejs.org/) with [Express](https://expressjs.com/)
   - HTML5/[Pug](https://pugjs.org/)
-  - CSS/[Sass](https://sass-lang.com/)
+  - CSS/[Tailwind CSS](https://tailwindcss.com/)/[Sass](https://sass-lang.com/)
   - JavaScript/jQuery
   - Java (including Android)
   - Some experience with Go
