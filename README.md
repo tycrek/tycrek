@@ -62,18 +62,18 @@ For front-end, I use "**PTvJS**":
 ## :brain: What I know
 
 - **Programming**
+  - Java (including some Android)
   - [Node.js](https://nodejs.org/) with [Express](https://expressjs.com/)
   - HTML5/[Pug](https://pugjs.org/)
   - CSS/[Tailwind CSS](https://tailwindcss.com/)/[Sass](https://sass-lang.com/)
   - JavaScript/jQuery
-  - Java (including Android)
   - Some experience with Go
   - Some experience with SQL
      - MySQL & PostgreSQL for personal use (I prefer Postgres)
      - T-SQL (Microsoft SQL Server) as part of a student work term
 - **Sysadmin**
   - Linux (Ubuntu server) (including Nginx, Caddy, and Varnish reverse proxies)
-  - Windows
+  - Windows (Home/Pro/Server, Active Directory management)
   - Security (including password security, keypair management, and certificate management)
 
 ## :book: What I am learning/want to learn
@@ -88,22 +88,22 @@ For front-end, I use "**PTvJS**":
 
 ## :mailbox: How to contact me
 
+### Discord (most effective)
+
+1. Join [this Discord server](https://discord.gg/Y9JkhYxe6P) ("bridge" to bypass Friend requests, not a chat Discord)
+2. Message me
+
 ### Keybase
 
 [**`@tycrek`**](https://keybase.io/tycrek)
 
-### Discord
+### Matrix
 
-1. Join [this Discord server](https://discord.gg/Y9JkhYxe6P)
-2. Message me
+**`@tycrek:matrix.org`**
 
 ### Email
 
 You can email either [**`josh.moore@jmoore.dev`**](mailto:josh.moore@jmoore.dev) or [**`t@tycrek.com`**](mailto:t@tycrek.com), but I don't always reply unless it's super important.
-
-### Matrix
-
-**`@tycrek:matrix.org`**
 
 ## Digital Ocean
 
