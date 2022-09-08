@@ -111,6 +111,14 @@ By using my referral code, you will receive $100 in credit over 60 days. Once yo
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=1588de8d402c&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
+## Stats
+
+[![tycrek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tycrek&count_private=true&show_icons=true&theme=dracula&hide_border=true&custom_title=tycrek%27s%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tycrek&langs_count=10&layout=compact&theme=dracula&hide_border=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tycrek&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
 ## Trophies
 
 [![trophies](https://github-profile-trophy.vercel.app/?username=tycrek&theme=dracula&title=Stars,Commit,Issues,Followers,PullRequest&margin-w=10&margin-h=10&row=2&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
