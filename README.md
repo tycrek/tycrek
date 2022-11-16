@@ -72,15 +72,17 @@ For front-end, I use "**PTvJS**":
      - MySQL & PostgreSQL for personal use (I prefer Postgres)
      - T-SQL (Microsoft SQL Server) as part of a student work term
 - **Sysadmin**
-  - Linux (Ubuntu server) (including Nginx, Caddy, and Varnish reverse proxies)
+  - Linux (I prefer Rocky on servers. **Stop using Ubuntu**)
+    - Caddy reverse proxies
+    - Docker & Docker Compose
   - Windows (Home/Pro/Server, Active Directory management)
   - Security (including password security, keypair management, and certificate management)
+  - Cloudflare
 
 ## :book: What I am learning/want to learn
 
 - **Programming languages**
   - [V](https://vlang.io/)
-  - [Kotlin](https://kotlinlang.org/)
   - [Julia](https://julialang.org/)
   - [Rust](https://www.rust-lang.org/) (maybe)
 - Properly learn databases
