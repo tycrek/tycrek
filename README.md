@@ -95,14 +95,6 @@ For front-end, I use "**PTvJS**":
 1. Join [this Discord server](https://discord.gg/Y9JkhYxe6P) ("bridge" to bypass Friend requests, not a chat Discord)
 2. Message me
 
-### Keybase
-
-[**`@tycrek`**](https://keybase.io/tycrek)
-
-### Matrix
-
-**`@tycrek:matrix.org`**
-
 ### Email
 
 You can email either [**`josh.moore@jmoore.dev`**](mailto:josh.moore@jmoore.dev) or [**`t@tycrek.com`**](mailto:t@tycrek.com), but I don't always reply unless it's super important.
