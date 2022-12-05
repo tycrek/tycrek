@@ -90,14 +90,19 @@ For front-end, I use "**PTvJS**":
 
 ## :mailbox: How to contact me
 
-### Discord (most effective)
+### Discord
 
-1. Join [this Discord server](https://discord.gg/Y9JkhYxe6P) ("bridge" to bypass Friend requests, not a chat Discord)
+1. Join [this Discord server](https://discord.gg/Y9JkhYxe6P) ("bridge" to bypass Friend requests, **not** a chat/public Discord)
 2. Message me
+3. Stay in the server until I reply, otherwise I won't reply.
 
 ### Email
 
 You can email either [**`josh.moore@jmoore.dev`**](mailto:josh.moore@jmoore.dev) or [**`t@tycrek.com`**](mailto:t@tycrek.com), but I don't always reply unless it's super important.
+
+### Mastodon (new)
+
+Give 'er a shot. You can reach me <a rel="me" href="https://tycrek.me/@josh"><strong>@josh@tycrek.me</strong></a>.
 
 ## Digital Ocean
 
