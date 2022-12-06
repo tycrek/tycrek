@@ -102,7 +102,7 @@ You can email either [**`josh.moore@jmoore.dev`**](mailto:josh.moore@jmoore.dev)
 
 ### Mastodon (new)
 
-Give 'er a shot. You can reach me <a rel="me" href="https://tycrek.me/@josh"><strong>@josh@tycrek.me</strong></a>.
+Give 'er a shot. You can find me on <a rel="me" href="https://tycrek.me/@josh" target="_blank"><strong>tycrek.me</strong></a>.
 
 ## Digital Ocean
 
