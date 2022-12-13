@@ -7,7 +7,7 @@
 <br>
 [![Donate icon]][Donate]
 
-[Website]: https://tycrek.com/
+[Website]: https://jmoore.dev/
 [Archive]: https://github.com/tycrek-archive
 [Donate]: https://www.patreon.com/tycrek
 [Followers]: https://github.com/tycrek?tab=followers
@@ -22,6 +22,24 @@
 ## :wave: Welcome
 
 I'm a full-stack web dev & Java dev. I have a passion for privacy, security, and open-source software.
+
+## :gem: Showcase
+
+### totems.me
+
+[totems.me](https://totems.me) is a small service I built to generate custom Minecraft Totem's of Undying, based off your in-game skin.
+
+### ass
+
+[ass](https://github.com/tycrek/ass) is a [ShareX](https://getsharex.com/) upload server. Hard to explain, but they're popular on Discord.
+
+### port.quest
+
+[port.quest](https://port.quest/) is pretty simple: a random number generator, specifically for port numbers. Even more specifically, ports in the [registered port range](https://en.wikipedia.org/wiki/Registered_port). It runs with Cloudflare Workers.
+
+### *And so much more*
+
+See my pinned repositories below, tab over to my currently active [repositories](https://github.com/tycrek?tab=repositories&q=&sort=stargazers), or check out my [archive].
 
 ## :book: Stats
 
