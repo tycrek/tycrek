@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hello, I'm Josh :rocket:
+# Hey, I'm Josh :rocket:
 
 [![Website icon]][Website]
 [![Archive icon]][Archive]
+<br>
 [![Donate icon]][Donate]
-[![Followers icon]][Followers]
 
 [Website]: https://tycrek.com/
 [Archive]: https://github.com/tycrek-archive
