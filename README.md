@@ -15,21 +15,10 @@ I'm a full-stack web dev & Java dev. I have a passion for privacy, security, and
 
 ## :gem: Showcase
 
-### totems.me
-
-[totems.me] is a small service I built to generate custom Minecraft Totem's of Undying, based off your in-game skin.
-
-### ass
-
-[ass] is a [ShareX] upload server. Hard to explain, but they're popular on Discord.
-
-### port.quest
-
-[port.quest] is pretty simple: a random number generator, specifically for port numbers. Even more specifically, ports in the [registered port range][ports]. It runs with Cloudflare Workers.
-
-### *And so much more*
-
-See my pinned repositories below, tab over to my currently active [repositories], or check out my [archive].
+- **[totems.me]** is a small service I built to generate custom Minecraft Totem's of Undying, based off your in-game skin.
+- **[ass]** is a ShareX upload server. Hard to explain, but they're popular on Discord.
+- **[port.quest]** is pretty simple: a random number generator, specifically for port numbers. Even more specifically, ports in the [registered port range][ports]. It runs with Cloudflare Workers.
+- ***And so much more***: See my pinned repositories below, tab over to my currently active [repositories], or check out my [archive].
 
 ## :envelope: Contact
 
@@ -66,7 +55,6 @@ Sign up using my referral to receive $100 in credit over 60 days. Once you've sp
 <!-- Showcase -->
 [totems.me]: https://totems.me
 [ass]: https://github.com/tycrek/ass
-[ShareX]: https://getsharex.com/
 [port.quest]: https://port.quest/
 [ports]: https://en.wikipedia.org/wiki/Registered_port
 [repositories]: https://github.com/tycrek?tab=repositories&q=&sort=stargazers
