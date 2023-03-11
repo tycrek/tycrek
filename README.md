@@ -67,7 +67,7 @@ Sign up using my referral to receive $100 in credit over 60 days. Once you've sp
 [GitHub Streak]: https://github-readme-streak-stats.herokuapp.com?user=tycrek&theme=dracula&hide_border=true
 [streaks]: https://git.io/streak-stats
 [stats repo]: https://github.com/anuraghazra/github-readme-stats
-[trophies]: https://github-profile-trophy.vercel.app/?username=tycrek&theme=dracula&title=Stars,Commit,Issues,Followers,PullRequest&margin-w=10&margin-h=10&row=2&column=3&no-frame=true
+[trophies]: https://github-profile-trophy.vercel.app/?username=tycrek&theme=dracula&title=Stars,Commit,Issues,Followers,PullRequest,Repositories&margin-w=10&margin-h=10&row=2&column=3&no-frame=true
 [trophy repo]: https://github.com/ryo-ma/github-profile-trophy
 <!-- Other -->
 [social hub]: https://tycrek.com
