@@ -18,7 +18,7 @@ I'm a full-stack web dev & Java dev. I have a passion for privacy, security, and
 - **[totems.me]** is a small service I built to generate custom Minecraft Totem's of Undying, based off your in-game skin.
 - **[ass]** is a ShareX upload server. Hard to explain, but they're popular on Discord.
 - **[port.quest]** is pretty simple: a random number generator, specifically for port numbers. Even more specifically, ports in the [registered port range][ports]. It runs with Cloudflare Workers.
-- ***And so much more***: See my pinned repositories below, tab over to my currently active [repositories], or check out my [archive].
+- ***And so much more***: See my [pinned repositories below][pins], tab over to my currently active [repositories], or check out my [archive].
 
 ## :envelope: Contact
 
@@ -42,6 +42,8 @@ Sign up using my referral to receive $100 in credit over 60 days. Once you've sp
 
 [![DO referral icon]][DO referral]
 
+###### Pins
+
 <!---- Links ---->
 <!-- Header -->
 [Website]: https://jmoore.dev/
@@ -58,6 +60,7 @@ Sign up using my referral to receive $100 in credit over 60 days. Once you've sp
 [port.quest]: https://port.quest/
 [ports]: https://en.wikipedia.org/wiki/Registered_port
 [repositories]: https://github.com/tycrek?tab=repositories&q=&sort=stargazers
+[pins]: #pins
 <!-- Stats & trophies -->
 [tycrek's GitHub stats]: https://github-readme-stats.vercel.app/api?username=tycrek&count_private=true&show_icons=true&theme=dracula&hide_border=true&custom_title=tycrek%27s%20GitHub%20Stats
 [Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=tycrek&langs_count=10&layout=compact&theme=dracula&hide_border=true&card_width=445
