@@ -10,6 +10,10 @@ Hey there! I'm Josh, a developer & explorer. I most commonly use Java & TypeScri
 [![Contact icon]][Contact]
 [![Archive icon]][Archive]
 
+### 🍪 Buy me a cookie
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tycrek)
+
 </div>
 
 ## :gem: Showcase
