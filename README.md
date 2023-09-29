@@ -55,8 +55,8 @@ Hey there! I'm Josh, a developer & explorer. I most commonly use Java & TypeScri
 <!-- Stats & trophies -->
 [tycrek's GitHub stats]: https://github-readme-stats.vercel.app/api?username=tycrek&count_private=true&show_icons=true&theme=dracula&hide_border=true&custom_title=tycrek%27s%20GitHub%20Stats
 [Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=tycrek&langs_count=10&layout=compact&theme=dracula&hide_border=true&card_width=445
-[GitHub Streak]: https://github-readme-streak-stats.herokuapp.com?user=tycrek&theme=dracula&hide_border=true
-[streaks]: https://git.io/streak-stats
+[GitHub Streak]: https://github-readme-streak-stats.tycrek.dev/?user=tycrek&theme=dracula&hide_border=true
+[streaks]: https://github.com/DenverCoder1/github-readme-streak-stats
 [stats repo]: https://github.com/anuraghazra/github-readme-stats
 [trophies]: https://github-profile-trophy.vercel.app/?username=tycrek&theme=dracula&title=Stars,Commit,Issues,Followers,PullRequest,Repositories&margin-w=10&margin-h=10&row=2&column=3&no-frame=true
 [trophy repo]: https://github.com/ryo-ma/github-profile-trophy
