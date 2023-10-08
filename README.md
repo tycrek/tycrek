@@ -20,6 +20,7 @@ Hey there! I'm Josh, a developer & explorer. I most commonly use Java & TypeScri
 
 - **[totems.me]** is a small service I built to generate custom Minecraft Totem's of Undying, based off your in-game skin.
 - **[ass]** is a ShareX upload server. Hard to explain, but they're popular on Discord.
+- **[pagery]** is my custom static site generator. The stack is quite niche but it works great for me.
 - **[port.quest]** is pretty simple: a random number generator, specifically for port numbers. Even more specifically, ports in the [registered port range][ports]. It runs with Cloudflare Workers.
 - ***And so much more***: See my [pinned repositories below][pins], tab over to my currently active [repositories], or check out my [archive].
 
@@ -48,6 +49,7 @@ Hey there! I'm Josh, a developer & explorer. I most commonly use Java & TypeScri
 <!-- Showcase -->
 [totems.me]: https://totems.me
 [ass]: https://github.com/tycrek/ass
+[pagery]: https://github.com/tycrek/pagery
 [port.quest]: https://port.quest/
 [ports]: https://en.wikipedia.org/wiki/Registered_port
 [repositories]: https://github.com/tycrek?tab=repositories&q=&sort=stargazers
