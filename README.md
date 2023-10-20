@@ -18,6 +18,7 @@ Hey there! I'm Josh, a developer & explorer. I most commonly use Java & TypeScri
 
 ## :gem: Showcase
 
+- **[Degoogle]** is huge, collaborative list of alternatives to Google products, as well as privacy tips, tricks, and more.
 - **[totems.me]** is a small service I built to generate custom Minecraft Totem's of Undying, based off your in-game skin.
 - **[ass]** is a ShareX upload server. Hard to explain, but they're popular on Discord.
 - **[pagery]** is my custom static site generator. The stack is quite niche but it works great for me.
