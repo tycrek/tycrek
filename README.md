@@ -48,6 +48,7 @@ Hey there! I'm Josh, a developer & explorer. I most commonly use Java & TypeScri
 [Contact icon]: https://img.shields.io/badge/-Contact-D81B60
 [Archive icon]: https://img.shields.io/badge/-Archive-AD1457
 <!-- Showcase -->
+[Degoogle]: https://github.com/tycrek/degoogle#readme
 [totems.me]: https://totems.me
 [ass]: https://github.com/tycrek/ass
 [pagery]: https://github.com/tycrek/pagery
