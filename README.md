@@ -37,6 +37,14 @@ Hey there! I'm Josh, a developer & explorer. I most commonly use Java & TypeScri
 
 [![trophies]][trophy repo]
 
+<div align="center">
+  <br><br><br><br>
+
+🩵 🩷 🤍 🩷 🩵
+
+  <br><br>
+</div>
+
 ###### Pins
 
 <!---- Links ---->
