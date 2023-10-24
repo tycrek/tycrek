@@ -12,7 +12,7 @@ Hey there! I'm Josh, a developer & explorer. I most commonly use Java & TypeScri
 
 ### 🍪 Buy me a cookie
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tycrek)
+[![ko-fi image]][ko-fi link]
 
 </div>
 
@@ -47,6 +47,8 @@ Hey there! I'm Josh, a developer & explorer. I most commonly use Java & TypeScri
 [Website icon]: https://img.shields.io/badge/-Website-EC407A
 [Contact icon]: https://img.shields.io/badge/-Contact-D81B60
 [Archive icon]: https://img.shields.io/badge/-Archive-AD1457
+[ko-fi image]: https://ko-fi.com/img/githubbutton_sm.svg
+[ko-fi link]: https://ko-fi.com/tycrek
 <!-- Showcase -->
 [Degoogle]: https://github.com/tycrek/degoogle#readme
 [totems.me]: https://totems.me
