@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- # Hello. I'm Josh. -->
-
 # :wave: Welcome
 
-Hey there! I'm Josh, a developer & explorer. I most commonly use Java & TypeScript.
+Hey there! I'm tycrek, a developer & explorer. I most commonly use Java & TypeScript.
 
 [![Website icon]][Website]
 [![Contact icon]][Contact]
