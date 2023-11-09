@@ -47,7 +47,7 @@ Hey there! I'm tycrek, a developer & explorer. I most commonly use Java & TypeSc
 
 <!---- Links ---->
 <!-- Header -->
-[Website]: https://jmoore.dev/
+[Website]: https://sylvie.tycrek.com/
 [Contact]: https://tycrek.com/
 [Archive]: https://github.com/tycrek-archive
 [Website icon]: https://img.shields.io/badge/-Website-EC407A
