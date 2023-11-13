@@ -60,7 +60,7 @@ Hey there! I'm tycrek, a developer & explorer. I most commonly use Java & TypeSc
 [totems.me]: https://totems.me
 [ass]: https://github.com/tycrek/ass
 [pagery]: https://github.com/tycrek/pagery
-[port.quest]: https://jmoore.dev/port.quest
+[port.quest]: https://sylvie.tycrek.com/port.quest
 [ports]: https://en.wikipedia.org/wiki/Registered_port
 [repositories]: https://github.com/tycrek?tab=repositories&q=&sort=stargazers
 [pins]: #pins
