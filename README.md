@@ -2,16 +2,14 @@
   
 # 🦊
 
-</div>
-
 Hi!! i'm tycrek, a silly trans programmer thing. java and typescript are my beloveds :3
 
 [![Top Langs]][stats repo]
 
 [![trophies]][trophy repo]
 
-<div align="center">
-  <br><br><br><br>
+<!-- div align="center"-->
+  <br><br><br>
 
 🩵 🩷 🤍 🩷 🩵
 
