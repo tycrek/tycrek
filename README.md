@@ -4,16 +4,16 @@
 
 Hi!! i'm tycrek, a silly trans programmer thing. java and typescript are my beloveds :3
 
+<br>
+🩵 🩷 🤍 🩷 🩵
+
+<br><br>
+
 [![Top Langs]][stats repo]
 
 [![trophies]][trophy repo]
 
 <!-- div align="center"-->
-  <br><br><br>
-
-🩵 🩷 🤍 🩷 🩵
-
-  <br><br>
 </div>
 
 <!-- Stats & trophies -->
