@@ -1,6 +1,6 @@
 <div align="center">
 
-![fox](https://i.tycrek.dev/cute-fox)
+[![fox](https://i.tycrek.dev/cute-fox)](https://sylvie.lgbt)
 
 Hi!! i'm tycrek, a silly trans programmer thing. java and typescript are my beloveds :3
 
