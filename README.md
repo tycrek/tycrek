@@ -4,7 +4,7 @@
 
 Hi!! i'm tycrek, a silly trans programmer thing. java and typescript are my beloveds :3
 
-<br>
+<br><br>
 🩵 🩷 🤍 🩷 🩵
 
 <br><br>
