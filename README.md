@@ -13,5 +13,5 @@ Hi!! i'm tycrek, a silly trans programmer thing. java and typescript are my belo
 
 </div>
 
-[Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=tycrek&langs_count=10&layout=compact&theme=catppuccin_mocha&hide_border=true&card_width=445
+[Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=tycrek&langs_count=10&layout=compact&theme=catppuccin_mocha&hide_border=true&card_width=446
 [stats repo]: https://github.com/anuraghazra/github-readme-stats
