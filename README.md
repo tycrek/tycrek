@@ -1,6 +1,6 @@
 <div align="center">
 
-[![fox](https://i.tycrek.com/cute-fox.png)](https://sylvie.lgbt)
+[![fox](https://images.tycrek.com/cute-fox.png)](https://sylvie.lgbt)
 
 Hi!! i'm tycrek, a silly trans programmer thing. java and typescript are my beloveds :3
 
