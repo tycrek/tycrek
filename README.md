@@ -1,5 +1,9 @@
 <div align="center">
 
+###### I'm slowly migrating projects to [git.tycrek.com](https://git.tycrek.com/tycrek)
+
+<br><br>
+
 [![fox](https://images.tycrek.com/cute-fox.png)](https://sylviefox.ca)
 
 hey! I'm tycrek, a trans programmer from Canada :3
