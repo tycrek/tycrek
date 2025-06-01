@@ -1,7 +1,3 @@
-hey! I'm tycrek, a trans programmer from Canada :3
-
-## project migration
-
 i'm no longer using GitHub for hosting code. find me in these places:
 
 <div align="center">
