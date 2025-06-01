@@ -1,12 +1,14 @@
 hey! I'm tycrek, a trans programmer from Canada :3
 
-## Project migration
+## project migration
 
-I've recently moved most of my projects to my own Git server:
+i'm no longer using GitHub for hosting code. find me in these places:
 
 <div align="center">
-  
-# **[git.tycrek.com](https://git.tycrek.com/tycrek)**
+
+**[git.gay](https://git.gay/tycrek)**  
+**[archive](https://git.tycrek.com/tycrek)**  
+**[other](https://codeberg.org/tycrek)**
 
 <br>
 
