@@ -3,8 +3,7 @@ i'm no longer using GitHub for hosting code. find me in these places:
 <div align="center">
 
 # **[git.gay](https://git.gay/tycrek)**  
-## **[archive](https://git.tycrek.com/tycrek)**  
-## **[other](https://codeberg.org/tycrek)**
+## **[archive](https://git.tycrek.com/tycrek)**
 
 <br>
 
