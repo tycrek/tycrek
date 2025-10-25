@@ -9,13 +9,8 @@ i'm no longer using GitHub for hosting code. see the links below to find me else
 
 <!-- // FOOTER START // -->
 <div align="center">
-<br>
 
 🩵 🩷 🤍 🩷 🩵
-
-<br>
-
-[![fox](https://images.tycrek.com/cute-fox.png)](https://sylviefox.ca)
 
 ###### [[git.gay][git-gay]] [[git.tycrek.com][git-self]] [[codeberg.org][git-berg]] [*[github.com][git-hub]*]
 
